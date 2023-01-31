@@ -1,8 +1,6 @@
 import React from "react";
 import { useState } from "react";
 
-// Testing to see if vscode is correctly linked.
-
 const BookCreate = ({ onCreate }) => {
   const [title, setTitle] = useState("");
 
